@@ -1,7 +1,8 @@
-﻿using UnityEditor;
+﻿using BasicScriptableObjectArchitecture.Runtime.References;
+using UnityEditor;
 using UnityEngine;
 
-namespace BasicScriptableObjectArchitecture.References.Editor
+namespace BasicScriptableObjectArchitecture.Editor
 {
     [CustomPropertyDrawer(typeof(Reference), true)]
     public class GameReferenceDrawer : PropertyDrawer

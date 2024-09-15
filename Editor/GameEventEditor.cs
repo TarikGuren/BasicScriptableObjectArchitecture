@@ -1,4 +1,4 @@
-﻿using BasicScriptableObjectArchitecture.Events;
+﻿using BasicScriptableObjectArchitecture.Runtime.Events;
 using UnityEditor;
 using UnityEngine;
 

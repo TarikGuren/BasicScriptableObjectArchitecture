@@ -1,6 +1,6 @@
-﻿using BasicScriptableObjectArchitecture.Variables;
+﻿using BasicScriptableObjectArchitecture.Runtime.Variables;
 
-namespace BasicScriptableObjectArchitecture.References
+namespace BasicScriptableObjectArchitecture.Runtime.References
 {
     public class GameReference<T, TVariable> : Reference where TVariable : GameVariable<T>
     {

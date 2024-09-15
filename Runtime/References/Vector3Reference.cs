@@ -1,8 +1,8 @@
 ﻿using System;
-using BasicScriptableObjectArchitecture.Variables;
+using BasicScriptableObjectArchitecture.Runtime.Variables;
 using UnityEngine;
 
-namespace BasicScriptableObjectArchitecture.References
+namespace BasicScriptableObjectArchitecture.Runtime.References
 {
     [Serializable]
     public class Vector3Reference : GameReference<Vector3, Vector3Variable>

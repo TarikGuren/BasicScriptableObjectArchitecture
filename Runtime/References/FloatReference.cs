@@ -1,7 +1,7 @@
 ﻿using System;
-using BasicScriptableObjectArchitecture.Variables;
+using BasicScriptableObjectArchitecture.Runtime.Variables;
 
-namespace BasicScriptableObjectArchitecture.References
+namespace BasicScriptableObjectArchitecture.Runtime.References
 {
     [Serializable]
     public class FloatReference : GameReference<float, FloatVariable>

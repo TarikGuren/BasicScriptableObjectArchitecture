@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace BasicScriptableObjectArchitecture.Variables
+namespace BasicScriptableObjectArchitecture.Runtime.Variables
 {
     public abstract class GameVariable<T> : GameVariable
     {

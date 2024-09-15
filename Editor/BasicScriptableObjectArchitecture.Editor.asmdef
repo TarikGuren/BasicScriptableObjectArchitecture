@@ -1,0 +1,16 @@
+{
+    "name": "BasicScriptableObjectArchitecture.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bc2bbe436c91982448d27bb81ab8edbe"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
