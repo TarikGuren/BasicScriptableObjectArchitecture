@@ -1,5 +1,4 @@
 ﻿using BasicScriptableObjectArchitecture.Variables;
-using Codice.CM.Triggers;
 
 namespace BasicScriptableObjectArchitecture.References
 {
