@@ -2,7 +2,7 @@
     "name": "com.tarikguren.basic-scriptableobject-architecture",
     "displayName": "Basic Scriptable Object Architecture",
     "version": "1.0.0",
-    "unity": "2022.3.40f1",
+    "unity": "2022.3",
     "licensesUrl": "See LICENSE.md",
     "author": {
      "name": "Tarik Guren",
